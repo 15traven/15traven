@@ -10,8 +10,8 @@ I've creating apps, websites and games using what I've learned<br />
 Rust, JavaScript, Python, C#, and HTML & CSS
 <br />
 <br />
-Git, Unity, Blender, Fusion360, Figma, Photoshop
-<br />
-<br />
 C++, Arduino
+<br />
+<br />
+Git, Unity, Blender, Fusion360, Figma, Photoshop
 </details>
