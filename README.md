@@ -11,5 +11,7 @@ Rust, JavaScript, Python, C#, and HTML & CSS
 <br />
 <br />
 Git, Unity, Blender, Fusion360, Figma, Photoshop
-
+<br />
+<br />
+C++, Arduino
 </details>
